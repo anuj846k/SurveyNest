@@ -1,0 +1,18 @@
+{
+    "mse": 984.5433,
+    "r2_score": 0.3357778377466689,
+    "feature_importance": {
+        "latitude": 0.03883609980929016,
+        "longitude": 0.03765445652952898,
+        "pollutant_min": 0.37278728774899017,
+        "pollutant_max": 0.5507221559121908,
+        "hour": 0.0,
+        "day": 0.0,
+        "month": 0.0
+    },
+    "data_stats": {
+        "total_samples": 10,
+        "training_samples": 8,
+        "test_samples": 2
+    }
+}
